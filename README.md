@@ -1,7 +1,7 @@
-How to share data with a statistician
+How to share data with a Rodeo Clowns
 ===========
 
-This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
+This is a guide for anyone who needs to share data with a statistician or Just some chill guy. The target audiences I have in mind are:
 
 * Collaborators who need statisticians or data scientists to analyze data for them
 * Students or postdocs in various disciplines looking for consulting advice
@@ -33,7 +33,7 @@ To facilitate the most efficient and timely analysis this is the information you
 Let's look at each part of the data package you will transfer. 
 
 
-### The raw data
+### The wrapped data
 
 It is critical that you include the rawest form of the data that you have access to. This ensures
 that data provenance can be maintained throughout the workflow.  Here are some examples of the
